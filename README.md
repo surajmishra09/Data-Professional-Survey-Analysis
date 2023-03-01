@@ -19,8 +19,9 @@ This is a real data survey conducted by Alex Freberg on Data Professionals in th
 9) Average rating of professionals who are happy with their job in terms of compensation they are given by their respective employers.
 10) Average age of survayee, who were being surveyed.
 
-# Dashborad :
-### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRiMzNlYzUtMTllMy00ZjEwLWJlZTktYzU3YjYyZjg2YzA4IiwidCI6IjBhMTM0ZWQ3LTliMDEtNDU2Ny05NzBjLWI1MmY2MGU2ZDgwMyJ9)
+# Applied Steps
+
+![PBIDesktop_YqYL8ya0Ao](https://user-images.githubusercontent.com/119112730/222076943-7385db74-2287-4555-ba3e-e67afbd9e0e9.png)
 
 
 ## Report Images
@@ -35,7 +36,11 @@ This is a real data survey conducted by Alex Freberg on Data Professionals in th
 ## Report Demo Video 
 
 
-https://user-images.githubusercontent.com/119112730/221344430-3e444ddd-9597-4945-a9eb-aa87e676f04b.mp4
+
+
+
+https://user-images.githubusercontent.com/119112730/222076259-bc04ae51-e4e7-455c-8b10-07dda2818942.mp4
+
 
 
 
@@ -52,6 +57,11 @@ https://user-images.githubusercontent.com/119112730/221344430-3e444ddd-9597-4945
 8) Avg rating of professionals who are happy with their job in terms of #worklifebalance was found to be 5.74.
 9) Where as the average rating of professionals who are happy with their job in terms of #salary has further fallen that was found to be 4.27.
 10) The country which is leading #dataprofessionals was also found to be #USA.
+
+# Dashborad :
+### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRiMzNlYzUtMTllMy00ZjEwLWJlZTktYzU3YjYyZjg2YzA4IiwidCI6IjBhMTM0ZWQ3LTliMDEtNDU2Ny05NzBjLWI1MmY2MGU2ZDgwMyJ9)
+
+
 
 # End Notes
 Good luck! Below my Linkedin profile are attached in case you want to connect with me. I’ll be happy to be connected with you.
