@@ -7,6 +7,9 @@ This is a real data survey conducted by Alex Freberg on Data Professionals in th
 
 -Project_Name: Survey on Data professionals.
 
+# Dashborad :
+### Link to [Interactive Dashboard](https://www.novypro.com/project/power-bi-83)
+
 # Problem Statements:
 1) The comparision of salary Male Vs. Female data professionals.
 2) The total number of survayee, who were being surveyed [Sample_Space]
@@ -57,9 +60,6 @@ https://user-images.githubusercontent.com/119112730/222076259-bc04ae51-e4e7-455c
 8) Avg rating of professionals who are happy with their job in terms of #worklifebalance was found to be 5.74.
 9) Where as the average rating of professionals who are happy with their job in terms of #salary has further fallen that was found to be 4.27.
 10) The country which is leading #dataprofessionals was also found to be #USA.
-
-# Dashborad :
-### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRiMzNlYzUtMTllMy00ZjEwLWJlZTktYzU3YjYyZjg2YzA4IiwidCI6IjBhMTM0ZWQ3LTliMDEtNDU2Ny05NzBjLWI1MmY2MGU2ZDgwMyJ9)
 
 
 
